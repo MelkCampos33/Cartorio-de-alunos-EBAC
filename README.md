@@ -5,5 +5,5 @@
 
 
 **Diagrama da Arquitetura Projeto Apresentado**
-
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 ![diagrama](https://user-images.githubusercontent.com/108761793/221963482-b18dfd87-3873-442b-814a-02d5c25af57e.png)
